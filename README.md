@@ -1,4 +1,0 @@
-TareaLic
-========
-
-Tarea de Lic
